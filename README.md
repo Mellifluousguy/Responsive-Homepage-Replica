@@ -28,13 +28,9 @@ In this project, I aimed to recreate the homepage of [Original Website Name] wit
 
 ## Project Structure
 
-├── index.html # Replica homepage HTML file
-├── css/
-│ └── styles.css # Stylesheet for the replica homepage
-├── js/
-│ └── script.js # JavaScript file (if applicable)
-└── img/ # Directory for storing image assets
-└── [image files] # Placeholder image files used in the replica
+├── index.html # Replica homepage HTML file.
+├── css/.
+│ └── styles.css # Stylesheet for the replica homepage.
 
 ## Contributing
 
