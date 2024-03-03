@@ -30,10 +30,6 @@ In this project, I aimed to recreate the homepage of https://spatium.earth/?ref=
 
 Contributions are welcome! If you'd like to suggest improvements, report issues, or contribute to the project, please feel free to submit a pull request or open an issue.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
 
 For any inquiries or collaboration opportunities, feel free to reach out to me at mohitdeveloperg@gmail.com.
