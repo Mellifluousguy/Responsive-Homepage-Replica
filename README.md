@@ -4,7 +4,7 @@ Welcome to the Responsive Homepage Replica repository! This project is a demonst
 
 ## Overview
 
-In this project, I aimed to recreate the homepage of **[https://spatium.earth/?ref=landingfolio]** with a strong emphasis on responsiveness. The goal was to ensure that the replica looks and functions seamlessly across a variety of devices and screen sizes.
+In this project, I aimed to recreate the homepage of [https://spatium.earth/?ref=landingfolio] with a strong emphasis on responsiveness. The goal was to ensure that the replica looks and functions seamlessly across a variety of devices and screen sizes.
 
 ## Key Features
 
@@ -25,12 +25,6 @@ In this project, I aimed to recreate the homepage of **[https://spatium.earth/?r
 1. Clone this repository to your local machine.
 2. Open `index.html` in your web browser to view the replica homepage.
 3. Experiment with resizing your browser window or testing the replica on different devices to experience its responsiveness.
-
-## Project Structure
-
-├── index.html # Replica homepage HTML file.
-├── css/.
-│ └── styles.css # Stylesheet for the replica homepage.
 
 ## Contributing
 
