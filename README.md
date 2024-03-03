@@ -4,7 +4,7 @@ Welcome to the Responsive Homepage Replica repository! This project is a demonst
 
 ## Overview
 
-In this project, I aimed to recreate the homepage of [https://spatium.earth/?ref=landingfolio] with a strong emphasis on responsiveness. The goal was to ensure that the replica looks and functions seamlessly across a variety of devices and screen sizes.
+In this project, I aimed to recreate the homepage of https://spatium.earth/?ref=landingfolio with a strong emphasis on responsiveness. The goal was to ensure that the replica looks and functions seamlessly across a variety of devices and screen sizes.
 
 ## Key Features
 
@@ -36,4 +36,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries or collaboration opportunities, feel free to reach out to me at [your-email@example.com].
+For any inquiries or collaboration opportunities, feel free to reach out to me at mohitdeveloperg@gmail.com.
